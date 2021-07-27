@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StalkerBR
+- 👀 I’m interested in games
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on hardware tests
